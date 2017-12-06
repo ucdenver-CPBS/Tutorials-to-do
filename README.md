@@ -5,6 +5,7 @@ A list of Tutorials that we think should be created. Feel free to make pull requ
 * Machine Learning: Intro to regression
 * Machine Learning: Intro to feature selection
 * Microbiome: Intro to 16S rRNA sequencing analysis
+* Microbiome: Intro to shotgun metagenomic sequencing analysis
 * Statistics: Intro to Permutation Analysis
 * An Intro to Network Analysis
 * Intro to Differential Gene Expression
